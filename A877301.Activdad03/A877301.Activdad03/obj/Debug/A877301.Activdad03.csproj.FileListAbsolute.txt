@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\A877301.Actividad003\A877301.Activdad03\A877301.Activdad03\bin\Debug\A877301.Activdad03.exe.config
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\A877301.Actividad003\A877301.Activdad03\A877301.Activdad03\bin\Debug\A877301.Activdad03.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\A877301.Actividad003\A877301.Activdad03\A877301.Activdad03\bin\Debug\A877301.Activdad03.pdb
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\A877301.Actividad003\A877301.Activdad03\A877301.Activdad03\obj\Debug\A877301.Activdad03.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\A877301.Actividad003\A877301.Activdad03\A877301.Activdad03\obj\Debug\A877301.Activdad03.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\A877301.Actividad003\A877301.Activdad03\A877301.Activdad03\obj\Debug\A877301.Activdad03.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\A877301.Actividad003\A877301.Activdad03\A877301.Activdad03\obj\Debug\A877301.Activdad03.pdb

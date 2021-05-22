@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A877301.Activdad03", "A877301.Activdad03\A877301.Activdad03.csproj", "{9172422E-3AB2-494B-93AB-E9F92049A40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9172422E-3AB2-494B-93AB-E9F92049A40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9172422E-3AB2-494B-93AB-E9F92049A40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9172422E-3AB2-494B-93AB-E9F92049A40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9172422E-3AB2-494B-93AB-E9F92049A40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5E31C3A-4CA3-49F0-BFF2-5385E43D06E5}
+	EndGlobalSection
+EndGlobal
